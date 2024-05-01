@@ -9,7 +9,7 @@
 ## 捐赠
 <h1 align="center">
   <picture>
-    <img src="">
+    <img src="https://github.com/SodiumSulfate/MP4-Damage-Simulation-Tool/blob/main/wx.png" width="200" height="250">
   </picture>
 </h1>
 Copyright © 2024 [Sodium_Sulfate](https://sodium.ren/). All rights reserved.
@@ -23,7 +23,7 @@ Copyright © 2024 [Sodium_Sulfate](https://sodium.ren/). All rights reserved.
 ## Donate
 <h1 align="center">
   <picture>
-    <img src="">
+    <img src="https://github.com/SodiumSulfate/MP4-Damage-Simulation-Tool/blob/main/wx.png" width="200" height="250">
   </picture>
 </h1>
 Copyright © 2024 [Sodium_Sulfate](https://sodium.ren/). All rights reserved.
@@ -37,7 +37,7 @@ Copyright © 2024 [Sodium_Sulfate](https://sodium.ren/). All rights reserved.
 ## 寄付する
 <h1 align="center">
   <picture>
-    <img src="">
+    <img src="https://github.com/SodiumSulfate/MP4-Damage-Simulation-Tool/blob/main/wx.png" width="200" height="250">
   </picture>
 </h1>
 Copyright © 2024 [Sodium_Sulfate](https://sodium.ren/). All rights reserved.
